@@ -1,1 +1,1 @@
-Mern Chat Project
+Mern Chat Project following tutorial
