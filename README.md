@@ -1,1 +1,1 @@
-Mern Stack Chat Project following tutorial
+Mern Stack Chat Project
